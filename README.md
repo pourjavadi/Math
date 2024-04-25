@@ -15,6 +15,25 @@ This Python project offers a graphical calculator designed with Tkinter. It supp
 
 ## Installation
 To get this calculator running on your system, follow these steps:
-1. Clone the repository:
+## Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/pourjavadi/Calculator.git
+```
+## Navigate to the directory where you cloned the repo:
+ ```bash
+cd Your Location
+```
+##Running the Calculator
+Execute the following command in the terminal:
+ ```bash
+python calculator.py
+```
+How to Use
+Use the on-screen buttons to input calculations.
+Click '=' to compute the result.
+Press 'C' to clear the current expression.
+Contribution
+Contributions are welcomed! If you have suggestions for improvements or new features, please fork the repository, implement your changes, and submit a pull request.
+
+License
+This software is released under the MIT License. For more details, see the LICENSE file included with the source code.
